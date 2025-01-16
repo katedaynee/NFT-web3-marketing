@@ -22,6 +22,6 @@ Even traditional finance got lured into the Web3 siren song, playing around with
 
 Story Protocol, with its impressive US$2.2 billion valuation, has entered the arena with ambitious pledges to revolutionize the management of intellectual property (IP) rights using blockchain technology. IP holds a critical role in ownership across the entire Web3 ecosystem and its economy, extending far beyond just NFTs. They claim to empower creators with more control over their work, but let's cut through the hype - this could just mean more complexity and expense.
 
-##  2025: Still NFTs & Beyond
+##  2025: Still Potential & Beyond
 
 By 2025, guessing NFTs will be more deeply integrated into DeFi products, enabling fractional ownership and further tokenization. Layers continue to figure out “the hows” to scale users in friendliness and fun. Traditional finance will embrace tokenization, bringing new users into the Web3 space. This expansion of blockchain technology into both DeFi and traditional sectors signifies a clear progression towards a more democratized financial ecosystem. However, the view of evolution seems to be still skeptical, anticipating more of the same old tricks dressed up in new blockchain jargon. The potential for a digital mess where ownership becomes muddled is evident, yet the narrative persists - bright, shiny, and ripe for exploitation. There’s no choice to experiment fast–fail fast–learn fast.
