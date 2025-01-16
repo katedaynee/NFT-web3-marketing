@@ -1,6 +1,6 @@
 # Challenges Onboarding Retail to Web3 through NFTs
 
-Quick look at NFTs in 2024, some real-life applications & 2025 forecast to explore how NFTs are set to evolve, while uncovering the significant challenges in onboarding users to this new digital frontier.
+GM! Time flies. Let me walk you to a quick look at NFTs in 2024, some real-life applications & 2025 forecast to explore how NFTs are set to evolve, while uncovering the significant challenges in onboarding users to this new digital frontier.
 
 ## 2024: A Breakthrough Year for NFTs
 
@@ -25,5 +25,3 @@ Story Protocol, with its impressive US$2.2 billion valuation, has entered the ar
 ## Beyond NFTs in 2025
 
 By 2025, guessing NFTs will be more deeply integrated into DeFi products, enabling fractional ownership and further tokenization. Layers continue to figure out “the hows” to scale users in friendliness and fun. Traditional finance will embrace tokenization, bringing new users into the Web3 space. This expansion of blockchain technology into both DeFi and traditional sectors signifies a clear progression towards a more democratized financial ecosystem. However, the view of evolution seems to be still skeptical, anticipating more of the same old tricks dressed up in new blockchain jargon. The potential for a digital mess where ownership becomes muddled is evident, yet the narrative persists - bright, shiny, and ripe for exploitation. There’s no choice to experiment fast–fail fast–learn fast.
-
-![ViewCount](https:/github.com/katedaynee/NFT-web3-marketing)
