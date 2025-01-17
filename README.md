@@ -12,7 +12,7 @@ And then, there's CloneX – the darling NFT project of Nike and Takashi Murakam
 
 ## Go Mainstream: Culture Remains?
 
-NFTs carry culture, offering unique, privileged feelings for groups that share the same values. Yet, one person might have different values. Contrary to mainstream trends which drive mass adoption for everyone, opportunities open up with the potential loss of cultures built since the beginning. The entertainment industry jumped on the NFT bandwagon in 2024, with platforms like MangoTV and Yeah1 Group trying to make their content "blockchain-powered". FunFusion pushed their NFT voting systems, claiming it's some groundbreaking way for fans to "engage". But let's be real, it's just another way to make you pay for something you used to get for free, under the guise of "participation".
+NFTs carry culture, offering unique, privileged feelings for groups that share the same values. Yet, one person might have different values. Contrary to mainstream trends which drive mass adoption for everyone, opportunities open up with the potential loss of cultures built since the beginning. The entertainment industry jumped on the NFT bandwagon in 2024, with platforms like MangoTV and Yeah1 Group trying to make their content "blockchain-powered". FunFusion pushed their NFT voting systems, claiming it's some groundbreaking way for fans to "engage".
 
 ## Challenges Traditional Finance Meets Web3
 
@@ -20,7 +20,7 @@ Even traditional finance got lured into the Web3 siren song, playing around with
 
 ## Story Protocol: Redefining IP
 
-Story Protocol, with its impressive US$2.2 billion valuation, has entered the arena with ambitious pledges to revolutionize the management of intellectual property (IP) rights using blockchain technology. IP holds a critical role in ownership across the entire Web3 ecosystem and its economy, extending far beyond just NFTs. They claim to empower creators with more control over their work, but let's cut through the hype - this could just mean more complexity and expense.
+Story Protocol, with its impressive US$2.2 billion valuation, has entered the arena with ambitious pledges to revolutionize the management of intellectual property (IP) rights using blockchain technology. IP holds a critical role in ownership across the entire Web3 ecosystem and its economy, extending far beyond just NFTs. They claim to empower creators with more control over their work.
 
 ##  2025: Still Potential & Beyond
 
