@@ -8,7 +8,7 @@ Well, 2024 might have been a "breakthrough" if you have been into the NFT hype, 
 
 ## CloneX Shutdown
 
-And then, there's CloneX – the darling project of Nike and Takashi Murakami that crashed and burned. It was supposed to be the future of fashion-tech integration, but it ended up being a lesson in how quickly the NFT bubble can pop. It shows the instability at the heart of this so-called "market". If even Nike can't keep their NFT venture afloat, what hope does the average Joe have?
+And then, there's CloneX – the darling NFT project of Nike and Takashi Murakami that crashed and burned. It was supposed to be the future of fashion-tech integration, but it ended up being a lesson in how quickly the NFT bubble can pop. It shows the instability at the heart of this so-called "market". If even Nike can't keep their NFT venture afloat, what hope does the average Joe have?
 
 ## Go Mainstream: Culture Remains?
 
