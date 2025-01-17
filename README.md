@@ -4,7 +4,7 @@ GM! Time flies. Let me walk you to a quick look at NFTs in 2024, some real-life 
 
 ## 2024: A Breakthrough Year for NFTs
 
-Well, 2024 might have been a "breakthrough" if you have been into the NFT hype, and great news for early collectors. We saw projects like Azuki's Anime Chain and Anime Coin, trying to cash in on the anime craze. Then there's Pudgy Penguins with their Abstract Chain, which supposedly adds some "unique" value to the NFT scene. BAYC Creator Yuga Labs launched ApeChain, while Ordinals NFTs added a more fun and friendly experience to the Bitcoin ecosystem. The total market cap and trading volume reached their highest performance ever, creating more spaces for NFT traders, following daily initiatives from professional builders. But let's not kid ourselves; it's all about repackaging the same old digital art with a new twist to sell it again.
+Well, 2024 might have been a breakthrough if you have been into the NFT hype, and great news for early collectors. We saw projects like Azuki's Anime Chain and Anime Coin, trying to cash in on the anime craze. Then there's Pudgy Penguins with their Abstract Chain, which supposedly adds some unique value to the NFT scene. BAYC Creator Yuga Labs launched ApeChain, while Ordinals NFTs added a more fun and friendly experience to the Bitcoin ecosystem. The total market cap and trading volume reached their highest performance ever, creating more spaces for NFT traders, following daily initiatives from professional builders. But let's not kid ourselves; it's all about repackaging the same old digital art with a new twist to sell it again.
 
 ## CloneX Shutdown
 
@@ -12,7 +12,7 @@ And then, there's CloneX – the darling NFT project of Nike and Takashi Murakam
 
 ## Go Mainstream: Culture Remains?
 
-NFTs carry culture, offering unique, privileged feelings for groups that share the same values. Yet, one person might have different values. Contrary to mainstream trends which drive mass adoption for everyone, opportunities open up with the potential loss of cultures built since the beginning. The entertainment industry jumped on the NFT bandwagon in 2024, with platforms like MangoTV and Yeah1 Group trying to make their content "blockchain-powered". FunFusion pushed their NFT voting systems, claiming it's some groundbreaking way for fans to "engage".
+NFTs carry culture, offering unique, privileged feelings for groups that share the same values. Yet, one person might have different values. Contrary to mainstream trends which drive mass adoption for everyone, opportunities open up with the potential loss of cultures built since the beginning. The entertainment industry jumped on the NFT bandwagon in 2024, with platforms like MangoTV and Yeah1 Group trying to make their content blockchain-powered. FunFusion pushed their NFT voting systems, claiming it's some groundbreaking way for fans to "engage".
 
 ## Challenges Traditional Finance Meets Web3
 
